@@ -1,0 +1,1 @@
+Los codigos obtenidos son univocamente decodificables al ser todos distintos y tener la misma longitud ya que se sabe donde empieza y termina cada palabra codigo. Tambien son instantaneos al no haber posibilidad de que algun codigo sea prefijo de otro.

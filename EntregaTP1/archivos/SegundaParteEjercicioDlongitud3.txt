@@ -1,0 +1,1 @@
+rendimiento: 82.306385% redundancia: 17.693615%

@@ -1,0 +1,2 @@
+cantidad informacion: 2662.251276 unidades ternarias/simbolo
+entropia: 5.246776 unidades ternarias/simbolo

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1666246553 source:c:\users\gutie\documents\proyectos\teoriainfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"teoria.h"
+	<math.h>
+
+1666165860 c:\users\gutie\documents\proyectos\teoriainfo\teoria.h
+
+1666246165 source:c:\users\gutie\documents\proyectos\teoriainfo\teoria.c
+	<stdio.h>
+	<stdlib.h>
+	"teoria.h"
+	<math.h>
+	<string.h>
+
+1666245909 source:c:\users\gutie\documents\proyectos\teoriainfo\util.c
+	<stdio.h>
+	<stdlib.h>
+	"teoria.h"
+	<math.h>
+	<string.h>
+

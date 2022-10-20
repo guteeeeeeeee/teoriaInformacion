@@ -1,0 +1,7 @@
+probabilidad de cada simbolo de manera independiente:
+A 0.526300 B 0.292700 C 0.181000 
+probabilidades condicionales:
+AA 0.555577 | AB 0.553468 | AC 0.397238 | 
+BA 0.342010 | BB 0.021182 | BC 0.588398 | 
+CA 0.102413 | CB 0.425350 | CC 0.013812 | 
+La fuente no es de memoria nula
