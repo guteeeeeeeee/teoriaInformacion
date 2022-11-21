@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1669072024 source:c:\users\gutie\documents\proyectos\teoria2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"teoria2.h"
+
+1669071933 c:\users\gutie\documents\proyectos\teoria2\teoria2.h
+
+1669069824 source:c:\users\gutie\documents\proyectos\teoria2\teoria2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teoria2.h"
+
+1669059443 source:c:\users\gutie\documents\proyectos\teoria2\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teoria2.h"
+
+1669059193 source:c:\users\gutie\documents\proyectos\teoria2\shannon.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teoria2.h"
+
+1669071972 source:c:\users\gutie\documents\proyectos\teoria2\parte2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teoria2.h"
+
