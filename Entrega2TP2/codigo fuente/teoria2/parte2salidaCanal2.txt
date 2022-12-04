@@ -1,0 +1,19 @@
+entropia entrada: 1.948389
+prob salida: 
+PROB(B1) PROB(B2) PROB(B3) PROB(B4) 
+0.275000 0.273000 0.215000 0.237000 
+entropia salida: 1.992564
+
+matriz cond: 
+    S0        S1        S2        S3        
+B0 0.200000 0.300000 0.200000 0.300000 
+B1 0.300000 0.300000 0.200000 0.200000 
+B2 0.300000 0.200000 0.200000 0.300000 
+B3 0.300000 0.300000 0.300000 0.100000 
+entropia post: 
+H(A/B1)  H(A/B2)  H(A/B3)  H(A/B4)  
+1.924523 1.933911 1.985308 1.820293 
+equivocacion: 
+1.915452
+informacion mutua: 
+0.032937
